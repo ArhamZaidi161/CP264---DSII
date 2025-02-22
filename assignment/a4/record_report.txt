@@ -1,0 +1,17 @@
+stats:value
+count:10
+mean:55.0
+stddev:28.7
+median:55.0
+
+name:score,grade
+A10:100.0,A+¨ôa
+A9:90.0,A+¨ôa
+A8:80.0,A-¨ôa
+A7:70.0,B-¨ôa
+A6:60.0,C-¨ôa
+A5:50.0,D-¨ôa
+A4:40.0,F
+A3:30.0,F
+A2:20.0,F
+A1:10.0,F
